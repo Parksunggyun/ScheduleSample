@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="work_types">
+        <item>Open</item>
+        <item>Middle</item>
+        <item>Close</item>
+        <item>Allday</item>
+        <item>Night</item>
+        <item>OverNight</item>
+    </string-array>
+    <array name="rainbow">
+        <item>@color/colour1</item>
+        <item>@color/colour2</item>
+        <item>@color/colour3</item>
+        <item>@color/colour4</item>
+        <item>@color/colour5</item>
+        <item>@color/colour6</item>
+        <item>@color/colour7</item>
+        <item>@color/colour8</item>
+    </array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ffffffff"
+    android:orientation="vertical"
+    android:id="@+id/childLL"
+    android:layout_width="match_parent"
+    android:layout_height="148dp"
+    android:layout_margin="8dp"
+    android:padding="8dp">
+    <View
+        android:id="@+id/typeColorV"
+        android:layout_width="35dp"
+        android:layout_height="5dp"
+        android:background="@color/colorAccent"/>
+    <TextView
+        android:id="@+id/workNameTv"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:textSize="22sp"
+        android:gravity="start|center"
+        android:text="Open"
+        android:textStyle="bold"
+        android:textColor="#FF000000"/>
+        <TextView
+            android:id="@+id/workTypeTv"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="20sp"
+            android:gravity="start|center"
+            android:text="Open"
+            android:textColor="#FF000000"/>
+    <TextView
+        android:id="@+id/workWeekOrWeekendTv"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textSize="14sp"
+        android:text="week"/>
+    <TextView
+        android:id="@+id/workStartEndTv"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textSize="14sp"
+        android:text="10:00 ~ 18:00"/>
+</LinearLayout>

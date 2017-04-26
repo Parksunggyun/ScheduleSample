@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Color Picker colours -->
+    <color name="colour1">#4CB2D4</color>
+    <color name="colour2">#844D9E</color>
+    <color name="colour3">#EB7B2D</color>
+    <color name="colour4">#F9ED3A</color>
+    <color name="colour5">#30499B</color>
+    <color name="colour6">#EE4035</color>
+    <color name="colour7">#F0A32F</color>
+    <color name="colour8">#56B949</color>
+    <!--                      -->
+
+    <color name="border">#acacac</color>
+    <color name="selectedBorder">#ff3e88</color>
+</resources>
